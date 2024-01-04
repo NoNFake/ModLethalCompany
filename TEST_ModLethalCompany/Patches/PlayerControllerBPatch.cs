@@ -23,7 +23,7 @@ namespace ModLethalCompany.Patches
             ___targetFOV = 12f;                     // *Test* FOW
             ___carryWeight = 0.6f;                  // Weight
             ___climbSpeed = 15f;                    // Climb 
-
+            
         }
 
 
