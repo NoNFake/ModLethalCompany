@@ -12,10 +12,5 @@
 
 **- Night Vision        🌙👀**
 
-
-```
-sprintMeter = 1f;           // Stamina
-takingFallDamage = false;   // Fall Damage
-carryWeight = 0.6f;         // Weight
-climbSpeed = 15f;           // Climb 
-```
+Use:
+[LethalConfig](https://github.com/AinaVT/LethalConfig)
